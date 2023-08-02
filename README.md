@@ -16,3 +16,6 @@ This section is for deployement
 
 ## How To Contribute
 test
+
+### Copyright
+2014 GIT. Training
