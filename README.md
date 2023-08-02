@@ -12,4 +12,7 @@ This example is to show different parts of the git repository various commands u
 
 ## Deployement
 
+This section is for deployement
+
 ## How To Contribute
+test
