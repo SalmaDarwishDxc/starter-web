@@ -15,7 +15,7 @@ This example is to show different parts of the git repository various commands u
 This section is for deployement
 
 ## How To Contribute
-test
+Please fork this repository and then issue pull request for review
 
 ### Copyright
 2014 GIT. Training
