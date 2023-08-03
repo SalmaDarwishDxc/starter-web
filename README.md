@@ -18,4 +18,4 @@ This section is for deployement
 Please fork this repository and then issue pull request for review
 
 ### Copyright
-2014 GIT. Training
+2014 GIT. Training. All rights reserved
